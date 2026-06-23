@@ -1,0 +1,26 @@
+# Environment files
+.env
+.venv
+
+
+# Python cache files
+__pycache__/
+
+
+
+# VS Code settings
+.vscode/
+
+
+
+# Claude AI settings
+.claude/
+
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Raw Data
+data/raw/*  
