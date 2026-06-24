@@ -1,0 +1,11 @@
+pandas
+geopandas
+pyarrow
+openpyxl
+folium
+plotly
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
+ipykernel

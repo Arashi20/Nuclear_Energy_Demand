@@ -15,6 +15,7 @@ __pycache__/
 
 # Claude AI settings
 .claude/
+CLAUDE.md
 
 
 
