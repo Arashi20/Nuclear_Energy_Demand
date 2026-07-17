@@ -40,18 +40,6 @@ Cleaned, unified data is written to `data/processed/` as Parquet files.
 - **Static viz:** Matplotlib, Seaborn
 - **Modeling:** Scikit-learn (trend modeling)
 
-## Project Structure
-
-```
-Nuclear_Energy_Demands/
-├── data/
-│   ├── raw/          # Source files (5 files, untouched — do not modify)
-│   └── processed/    # Cleaned, unified Parquet outputs
-├── notebooks/         # Jupyter notebooks (ingestion, EDA, analysis modules)
-├── Project Proposal.md
-├── CLAUDE.md
-└── requirements.txt
-```
 
 ## Setup
 
